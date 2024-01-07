@@ -2,7 +2,7 @@
 
 <details>
 <summary>CPP00:</summary>
-<b>Grade:</b> 100/100
+<b>Grade:</b> 80/100
 <b>Subject:</b> <a href="./extras/en.subject_CPP00.pdf" target="_blank">CPP00 en_subject</a>
 
 <b>Useful links</b>:  
@@ -32,7 +32,7 @@ Anything and probably everything on _Geek_for_geeks_
 
 <details>
 <summary>CPP02:</summary>
-<b>Grade:</b> 100/100
+<b>Grade:</b> 80/100
 <b>Subject: </b>
 <a href="./extras/en.subject_CPP02.pdf" target="_blank">CPP02 en_subject</a>
 
@@ -49,7 +49,7 @@ Anything and probably everything on _Geek_for_geeks_
 
 <details>
 <summary>CPP03:</summary>
-<b>Grade:</b> 100/100
+<b>Grade:</b> 80/100
 <b>Subject: </b>
 <a href="./extras/en.subject_CPP03.pdf" target="_blank">CPP03 en_subject</a>
 
