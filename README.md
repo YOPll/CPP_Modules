@@ -1,5 +1,8 @@
 # CPP_Modules
 
+## Module00 :
+This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
+
 <details>
 <summary>CPP00:</summary>
 <b>Grade:</b> 80/100
@@ -16,6 +19,9 @@ Anything and probably everything on _Geek_for_geeks_
 
 </details>
 
+## Module01 :
+This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
+
 <details>
 <summary>CPP01:</summary>
 <b>Grade:</b> 100/100
@@ -29,6 +35,9 @@ Anything and probably everything on _Geek_for_geeks_
 [Pointer to member functions](https://www.codeguru.com/cplusplus/c-tutorial-pointer-to-member-function/)  
 
 </details>
+
+## Module02 :
+This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP.
 
 <details>
 <summary>CPP02:</summary>
@@ -47,6 +56,9 @@ Anything and probably everything on _Geek_for_geeks_
 
 </details>
 
+## Module03 :
+This module is designed to help you understand Inheritance in CPP.
+
 <details>
 <summary>CPP03:</summary>
 <b>Grade:</b> 80/100
@@ -61,6 +73,9 @@ Anything and probably everything on _Geek_for_geeks_
 
 </details>
 
+## Module04 :
+This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
+
 <details>
 <summary>CPP04:</summary>
 <b>Grade:</b> 80/100
@@ -72,6 +87,9 @@ Anything and probably everything on _Geek_for_geeks_
 [How to initialize array of objects](https://www.geeksforgeeks.org/how-to-initialize-array-of-objects-with-parameterized-constructors-in-c/)
 
 </details>
+
+## Module05 :
+This module is designed to help you understand Try/Catch and Exceptions in CPP.
 
 <details>
 <summary>CPP05:</summary>
@@ -86,6 +104,9 @@ Anything and probably everything on _Geek_for_geeks_
 
 </details>
 
+## Module06 :
+This module is designed to help you understand the different casts in CPP.
+
 <details>
 <summary>CPP06:</summary>
 <b>Grade:</b> 100/100
@@ -95,6 +116,9 @@ Anything and probably everything on _Geek_for_geeks_
 <b>Useful links</b>:  
 Anything and probably everything on _Geek_for_geeks_  
 </details>
+
+## Module07 :
+This module is designed to help you understand Templates in CPP.
 
 <details>
 <summary>CPP07:</summary>
@@ -107,6 +131,9 @@ Anything and probably everything on _Geek_for_geeks_
 [Templates in C++](https://www.geeksforgeeks.org/templates-cpp/)  
 </details>
 
+## Module08 :
+This module is designed to help you understand templated containers, iterators and algorithms in CPP.
+
 <details>
 <summary>CPP08:</summary>
 <b>Grade:</b> 100/100
@@ -116,6 +143,9 @@ Anything and probably everything on _Geek_for_geeks_
 <b>Useful links</b>:  
 Anything and probably everything on _Geek_for_geeks_  
 </details>
+
+## Module09 :
+This module is designed to help us understand the containers in CPP.
 
 <details>
 <summary>CPP09:</summary>
